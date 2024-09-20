@@ -1,4 +1,4 @@
-# Company-Management-System-Database
+# Company Management System Database
 
 This project is a **Company Management System Database** designed to simulate the operations of a business with multiple branches, employees, clients, and suppliers. Using **SQLite**, the project focuses on implementing key database management practices such as creating normalized tables, managing relationships between entities, enforcing data integrity through constraints, and optimizing queries for performance.
 
